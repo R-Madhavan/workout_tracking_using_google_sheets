@@ -3,4 +3,4 @@
 ### input:
   ![image](https://github.com/user-attachments/assets/f0d919bc-b671-48c3-a2ce-b9c3f444dd37)
 ### output:
-  ![image](https://github.com/user-attachments/assets/cf173fc5-2fa1-4805-8501-1aa1b877bde7)
+  ![image](https://github.com/user-attachments/assets/764e4b33-f933-4a8d-91fe-9e31d3843162)
