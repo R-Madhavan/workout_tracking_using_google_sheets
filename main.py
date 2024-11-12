@@ -35,7 +35,7 @@ today_date = datetime.now().strftime("%d/%m/%Y")
 now_time = datetime.now().strftime("%X")
 
 bearer_headers = {
-    "Authorization": f"Bearer {os.environ['TOKEN']}"
+    "Authorization": f"Bearer {os.environ['TOKEN']}" #Bearer or Basic
 }
 
 for exercise in result["exercises"]:
